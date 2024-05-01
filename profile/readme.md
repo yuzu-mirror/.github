@@ -4,6 +4,9 @@ This organization is a frozen mirror fork of the original [**@yuzu-emu**](https:
 > [!NOTE]
 > This organization is not related to, in any way, shape, or form, to the original yuzu developers and yuzu-emu organization members.
 
+> [!WARNING]
+> The main repositories (yuzu, yuzu-android, yuzu-downloads, and yuzu-mainline) have been taken down by Nintendo due to a DMCA request. The rest of the archived repositories will remain in their current state.
+
 If you're looking to download Yuzu, you can find archived versions [over at yuzu-downloads](https://github.com/yuzu-mirror/yuzu-downloads?tab=readme-ov-file#yuzu-downloads). Here's a link to the latest [**Windows**](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/Mainline%20Build%20-%207ffac53c9%20(2024-03-03)/yuzu-windows-msvc-20240303-7ffac53c9.zip) and [**Linux**](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/Mainline%20Build%20-%207ffac53c9%20(2024-03-03)/yuzu-mainline-20240303-7ffac53c9.AppImage) version.
 
 For the Citra Emulator, a full fork (w/ dependencies) may be found [here](https://github.com/PabloMK7/citra) (unrelated to this project or the author).
